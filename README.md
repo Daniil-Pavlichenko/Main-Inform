@@ -1,2 +1,2 @@
 ## Моя страница
-daniil-pavlichenko.github.io/main-inform/
+https.daniil-pavlichenko.github.io/main-inform/
